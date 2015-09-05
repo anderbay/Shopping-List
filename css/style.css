@@ -79,22 +79,22 @@ li input{
   width:1rem;
   height:100%;
   margin:0 1rem;
-  display:inline-block;
+  float:left;
 }
 
 .itemInput{
-  background-color: #aaa;
-  width:18rem;
+  background-color: #f8f8f8;
+  width:19rem;
   height:100%;
-  display:inline-block;
+  float:left;
 }
 
 .remove{
   width:3rem;
-    width:1rem;
-  height:100%;
-  margin:0 1rem;
-  display:inline-block;
+  width:1rem;
+  height:3rem;
+  margin:0.5rem 1rem 0;
+  float:left;
   font-size:2rem;
   color:#aaa;
 }
